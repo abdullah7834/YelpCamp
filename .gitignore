@@ -1,0 +1,6 @@
+# Ignore all Files Include in this 
+
+node_modules/
+
+npm-debug.log
+.env
