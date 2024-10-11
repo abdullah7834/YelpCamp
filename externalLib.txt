@@ -1,0 +1,9 @@
+multer ::: Which is used for the parsing the upload file   
+dotenv :::
+multer-storage-cloudianry :: use to upload files to cloudinary that multer is parsing
+
+
+  :: add some js functionality to the file picker  for the multiple input ::
+
+
+

@@ -1,0 +1,12 @@
+Crypto graphic HAsh Functions 
+one way func which is infeasible to invert .
+small Change in input yields a large Change inthe output .
+Deterministics > same inputs yield the same output
+unlikely to find two outputs with same values 
+Password Hash functions are deliberately slow 
+
+
+
+Salts ::
+A salt is a random value that is added to Password before we hash it 
+It helps ensure the     hashes and mitigate the common attacks  

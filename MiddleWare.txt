@@ -1,0 +1,23 @@
+Middleware in an express are the functions that works during the request/response lifecycle ::
+
+They runs between the times when the request enters and  leaves before  the response
+
+we actually parsing the form data or the express json data  using the built_in   express Middleware
+
+Middleware Functions have the access to the     request object(req) , and the response object (res) and the next Middleware functions in the applications request response lifecycle  or they can just respond and stop the lifecycle ::
+
+
+Morgan is another useful Middleware which is used  mostly in debugging the applications
+
+The functions that will run on every single incomming request :: 
+
+Morgan is logging the information about the incomming requests :: 
+
+In APP>get we can pass the multiple call backs so that we can use the Middleware functions in them   to our actual route 
+
+
+
+
+
+
+Error Handling in the Express ::
